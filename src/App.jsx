@@ -1,11 +1,13 @@
-import { CiMenuKebab } from "react-icons/ci";
+// import { CiMenuKebab } from "react-icons/ci";
+
+import {Footer, Blog, Possibility, Features, WhatGPT3, Header} from "./containers";
+import {CTA, Brand, Navbar} from "./components";
 
 function App() {
 
   return (
     <>
-      <h1>GPT 3</h1>
-      <p><CiMenuKebab/></p>
+
     </>
   )
 }
